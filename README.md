@@ -16,6 +16,9 @@ I'm Aleena Iraqui. I'm a Bioinformatics Graduate Student at Northeastern Univers
 
 ---
 
+📊 GitHub Stats 
+![GitHub Streak](https://streak-stats.demolab.com?user=AleenaI20&theme=default&hide_border=true)
+
 ### ✨ Let's Connect
 
 <p>
