@@ -13,6 +13,12 @@ I'm Aleena Iraqui. I'm a Bioinformatics Graduate Student at Northeastern Univers
 
 ---
 
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AleenaI20&show_icons=true&theme=default&hide_border=true&count_private=true" />
+</p>
+
 ### ✨ Let's Connect
 
 <p>
