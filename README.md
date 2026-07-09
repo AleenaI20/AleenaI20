@@ -12,6 +12,8 @@ I'm Aleena Iraqui. I'm a Bioinformatics Graduate Student at Northeastern Univers
 
 🧪 Foundation in both wet lab and dry lab (I speak both languages)
 
+---
+
 ### ✨ Let's Connect
 
 <p>
